@@ -1,5 +1,10 @@
-lista = ("processo", 'REAL', 'Nome', 'TEXT', 'Nome', 'TEXT')
+d = {'Nome': 'TEXT',
+     'Idade': 'INTEGER',
+     'Idada': 'INTEGERf',}
 
-# print(*tup)
 
-print(f'{lista}')
+
+
+
+print()
+    
