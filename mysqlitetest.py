@@ -32,7 +32,7 @@ cur = con.cursor()
 
 cols = {'c1': 'TEXT',
         'c2': 'text',
-        'c2': 'integer'}
+        'c3': 'integer'}
 
 Command.cria_tabela_3_cols(cur, 'batata', cols=cols)
 
